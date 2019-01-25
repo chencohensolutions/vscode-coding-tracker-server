@@ -1,7 +1,7 @@
 {
 	"codingTracker.serverURL": "http://localhost:10345/",
 	"codingTracker.uploadToken": "123456",
-	"codingTracker.computerId": "ubuntuLaptop",
+	"codingTracker.computerId": "vscodetrackerproject",
 
 	"files.exclude": {
 		"**/.git": true,
