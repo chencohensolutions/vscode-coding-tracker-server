@@ -15,7 +15,7 @@ let URL = {
 	hours: (startDate, endDate) => getGroupByHoursURL('hours', startDate, endDate),
 	hoursDetailed: (startDate, endDate) => getGroupByHoursURL('hours-detailed', startDate, endDate),
 };
-
+console.log('URL = {', URL);
 let API = {
 	URL,
 	init: () => {
